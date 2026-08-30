@@ -46,7 +46,7 @@ Focusing on threat detection, log analysis, and alert triage.
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** [Paste your LinkedIn URL here]
-- **Email:** [Optional - only if comfortable]
+- **LinkedIn:** 
+- **Email:** 
 
 *This portfolio is a work in progress. I add new projects every week as I learn.*
